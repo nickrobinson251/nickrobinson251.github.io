@@ -2,6 +2,8 @@
     <span class="site-footer-credits">
 	{% if page.layout == "post" %}
 	    <a href="{{ site.url }}">Home</a>
+        {% else %}
+	    <a href="{{ site.url }}/about.html">About</a>
 	{% endif %}
     </span>
 </footer>
