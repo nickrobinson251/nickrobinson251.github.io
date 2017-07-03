@@ -3,7 +3,7 @@ layout: post
 title: "Ideas: Those who can't learn, teach"
 ---
 
-One of my colleagues jokingly mocks me for teaching thing I haven’t learned yet. He says that usually people learn something, use it for a number of years, get good at it and then finally teach it to others. That sounds great. I look forward to doing that! Right now, I’m not in a position to do that because for most things I do, I’m starting out. And I prefer to start by teaching.
+One of my colleagues jokingly mocks me for teaching thing I haven’t learnt yet. He says that usually people learn something, use it for a number of years, get good at it and then finally teach it to others. That sounds great. I look forward to doing that! Right now, I’m not in a position to do that because for most things I do I’m starting out. And I prefer to start by teaching.
 
 I love teaching because I love learning. I’m just not always good at learning. Sometimes I am. Sometimes I can get up almost every day, for days on end and study my maths or meditate or programme. Usually not though. If I say I’m going to teach something, that’s when I get some motivation. Standing in front of others, having them go quiet and listen to me muddle through an explanation, that’s when I realise I’d like to teach it better, to know it better, and to spend time figure it out.
 
