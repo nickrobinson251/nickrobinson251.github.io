@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 baseurl: ""
 url: "http://www.peopleideasmachines.com"
 title: "People, Ideas, Machines"
+permalink: :title
