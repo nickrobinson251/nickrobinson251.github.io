@@ -1,9 +1,12 @@
 <footer class="site-footer">
-    <span class="site-footer-credits">
+    <span class="site-footer-credits" style="float:left">
 	{% if page.layout == "post" %}
 	    <a href="{{ site.url }}">Home</a>
         {% else %}
 	    <a href="{{ site.url }}/about">About</a>
 	{% endif %}
+    </span>
+    <span class="site-footer-credits" style="float:right">
+        <a href="{{ site.url }}/feed.xml">Feed</a>
     </span>
 </footer>
