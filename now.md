@@ -2,4 +2,5 @@
 layout: post
 title: Now
 ---
-I'm living in Kentish Town, London. In September I'll be moving to Edinburgh to study AI full-time.
+I recently moved to beautiful Edinburgh to study AI full-time
+until September 2018.
