@@ -4,8 +4,8 @@ title: "Machines: A few small steps"
 ---
 
 I've settled into Edinburgh, and just completed my first week of lectures for the
-[AI MSc](http://www.inf.ed.ac.uk/teaching/courses/nip/). Here's my current view over
-the field of AI, explained via the route I'll be taking this year.
+[AI MSc](http://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=107).
+Here's my current view over the field of AI, explained via the route I'll be taking this year.
 
 The goal of the AI research field depend on who you ask, good choices might include:
 - create software which is capable of doing any task requiring intelligence,
