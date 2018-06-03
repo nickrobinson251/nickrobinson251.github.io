@@ -18,7 +18,7 @@ there is AI research giving a precise definition! If you don't know about this
 reseach, that's fine, and I barely know anything about it myself. But I don't know anyhing
 about evolution either, and find it easy not to sarcastically say "But how do you even
 define 'evolving'?".  Or take the case of 'information'. It would be a bit surpring to here
-a computer scientist adapt a mocking tone to ask "But How do you even define
+a computer scientist adopt a mocking tone to ask "But how do you even define
 'information'?". That question has reasonable, precise answers, and gives an opportunity
 to recommend perhaps [my all time favourite paper (PDF)](
 www.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf).
