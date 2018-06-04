@@ -21,7 +21,7 @@ define 'evolving'?".  Or take the case of 'information'. It would be a bit surpr
 a computer scientist adopt a mocking tone to ask "But how do you even define
 'information'?". That question has reasonable, precise answers, and gives an opportunity
 to recommend perhaps [my all time favourite paper (PDF)](
-www.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf).
+http://www.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf).
 So, on to "intelligence". If you're not sure how to define it, fair enough, but why not start with [the definition given by Legg and Hutter](https://arxiv.org/abs/0712.3329)?
 
 Quoting from section 3:
@@ -56,7 +56,7 @@ approximated.
 
 Here is [one approximation method](https://arxiv.org/abs/1109.5951),
 and here is [an introduction to work on *universal  artificial intelligence* (PDF)](
-www.tomeveritt.se/papers/UAI-book-chapter.pdf).
+http://www.tomeveritt.se/papers/UAI-book-chapter.pdf).
 
 The question "How do you define intelligence?" is a good one, worth the time of AI
 researchers.
