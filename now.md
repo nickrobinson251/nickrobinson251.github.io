@@ -2,6 +2,5 @@
 layout: post
 title: Now
 ---
-I am living in beautiful Edinburgh and studying AI.
-I just finished exams and will be spending my summer researching reinforcement learning
-in the Edinburgh robotics department.
+I recently moved to Cambridge, UK, and am looking for a job involving machine learning
+or Bayesian statistics, having just finished my AI MSc in Edinburgh.
