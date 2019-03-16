@@ -2,5 +2,12 @@
 layout: post
 title: Now
 ---
-I recently moved to Cambridge, UK, and am looking for a job involving machine learning
-or Bayesian statistics, having just finished my AI MSc in Edinburgh.
+I am living in Cambridge, UK, with my partner.
+
+I started a new job working on optimizing energy grids, where I get to programme in [Julia]
+and work on probabilistic machine learning, mathematical optimization, and more general
+software engineering.
+
+I recently discovered that I enjoy board games.
+
+[Julia]: https://julialang.org/
