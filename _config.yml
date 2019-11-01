@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 baseurl: ""
-url: "http://www.peopleideasmachines.com"
+url: "https://nickrobinson251.github.io/"
 title: "People, Ideas, Machines"
 permalink: :title
 plugins:
