@@ -1,7 +1,6 @@
-I'm a research software engineer, mostly writing code in [Julia](julialang.org), and
-contributing to open-source software when I can.
+I'm a research software engineer, mostly writing code in [Julia](julialang.org), and contributing to open-source software when I can.
 
-I made this little site to practise, writing because I admire people who write well.
+I made this little site to practise writing, because I admire people who write well.
 Right now I'm mostly writing for myself.
 
 The site's theme comes from something a former boss said to me:
