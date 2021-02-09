@@ -13,7 +13,7 @@ in the last 9 years, but I expect this is the first one that will stay on my CV
 indefinitely. There are certain things from the last two years, and from the
 last two weeks, that are worth reflecting on. Let's start at the end.
 
-### Exit
+## Exit
 
 The exit interview was probably the most useful thing I did for the company
 in my last few weeks. In fact I did two, I was such a good employee. First I
@@ -44,7 +44,7 @@ hadn't been able to rant freely at my manager for a couple hours. It also  help 
 feel unburdened, and much more able to appreciate what a good job it had been. Exit
 interviews just seem a great idea for both employee and company.
 
-### Lessons
+## Lessons
 
 I learned far too much in the last two year to summarise here: a lot of technical
 skills and far more personal skills than I would have ever predicted.
@@ -65,15 +65,15 @@ and would have had the chance to learn if I had stayed at the company. I want to
 learn to be easy to manage, to own projects, and be the guy you want on the toughest
 challenges.
 
-### Goodbyes
+## Goodbyes
 
 For my own sake, I thought I'd note down a couple of the notes from my 'ta-ta for now'
 card (which don't have personal details), and which I really appreciated:
 
 > It was a pleasure working with you. I hope we work together again in the future.
 
-> You have saved the team, and kept the spirits up in so many different projects and
-situations. Keep being a great man in your future life! With respect and admiration.
+> You have saved the team, and kept the spirits up in so many different projects and situations.
+> Keep being a great man in your future life! With respect and admiration.
 
 ---
 p.s. Posting this a while after writing it, I checked in on the company's core product,
