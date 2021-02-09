@@ -11,8 +11,7 @@ Here's my current view over the field of AI, explained via the route I'll be tak
 The goal of the AI research field depend on who you ask, good choices might include:
 - create software which is capable of doing any task requiring intelligence,
 - understand intelligence (and perhaps the brain) by recreating it in software,
-- automate each task so humans don't need to do it, or so previously impossible tasks
-become possible
+- automate each task so humans don't need to do it, or so previously impossible tasks become possible
 
 Since the field was founded in early-mid 20th century, there have been a few different
 approaches to studying AI. For example, "good old fashioned AI" focussed on creating systems
@@ -31,8 +30,7 @@ We still need to write some kind of program for how to do this - computing is ma
 magic - so we usually write down:
 1. some sensible seeming model for how to go from observations to behaviour,
 2. a way to score how 'good' the behaviour of the current model is, and
-3. how to change the model in light of the score to hopefully get better behaviour in
-the future.
+3. how to change the model in light of the score to hopefully get better behaviour in the future.
 
 Repeating this process of updating the model, scoring performance, and updating again,
 we eventually hope to have a model that is pretty good at the task. If the task was
