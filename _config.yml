@@ -1,7 +1,0 @@
-theme: jekyll-theme-cayman
-baseurl: ""
-url: "https://nickrobinson251.github.io/"
-title: "People, Ideas, Machines"
-permalink: :title
-plugins:
-  - jekyll-feed
