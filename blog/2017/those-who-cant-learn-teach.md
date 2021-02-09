@@ -1,6 +1,10 @@
-@def tags = ["Ideas"]
-@def title = "Those who can't learn, teach"
-@def date = Date(2017, 7, 2)
++++
+tags = ["Ideas"]
+title = "Those who can't learn, teach"
+date = Date(2017, 7, 2)
+rss_pubdate = date
+rss_description = title
++++
 
 # {{ title }}
 

@@ -4,7 +4,10 @@ The website_* must be defined for the RSS to work.
 -->
 @def website_title = "Nick Robsinson"
 @def website_descr = "Personal website of Nick Robsinson"
-@def website_url   = "https://nickrobinson251.github.io"
+@def website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "https://nickrobinson251.github.io")
+@def prepath = get(ENV, "PREVIEW_FRANKLIN_PREPATH", "")
+
+@def generate_rss = true
 
 @def sitename = "Nick Robinson"
 @def author = "Nick Robinson"
@@ -12,7 +15,9 @@ The website_* must be defined for the RSS to work.
 @def github_username = "nickrobinson251"
 @def image_file = "simba.jpeg"
 
-> Minimum title level to go in the table of content
+<!--
+Minimum title level to go in the table of content
+-->
 @def mintoclevel = 2
 
 <!--
