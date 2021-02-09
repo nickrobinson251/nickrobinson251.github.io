@@ -17,8 +17,7 @@ jobs:
     - name: Fix URLs for PR preview deployment (pull request previews)
       if: github.event_name == 'pull_request'
       run: |
-        echo "PREVIEW_FRANKLIN_WEBSITE_URL=https://nickrobinson251.netlify.app/previews/PR${{ github.event.number }}/" >> $GITHUB_ENV
-        echo "PREVIEW_FRANKLIN_PREPATH=previews/PR${{ github.event.number }}" >> $GITHUB_ENV
+        echo "PREVIEW_FRANKLIN_WEBSITE_URL=https://nickrobinson251.netlify.app/" >> $GITHUB_ENV
     # NOTE: Python is necessary for the pre-rendering (minification) step
     - name: Install python
       uses: actions/setup-python@v2
@@ -52,10 +51,8 @@ jobs:
         BRANCH: gh-preview  # The branch where the PRs previews are stored
         FOLDER: __site
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        # The website preview is going to be stored in a subfolder
-        TARGET_FOLDER: "previews/PR${{ github.event.number }}"
     - name: Build and Deploy
-      if: github.event_name == 'push' && github.ref == 'refs/heads/dev'
+      if: github.event_name == 'push'
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
