@@ -1,3 +1,5 @@
+# About
+
 I'm a research software engineer, mostly writing code in [Julia], and contributing to open-source software when I can.
 
 I made this little site to practise writing, because I admire people who write well.
