@@ -1,4 +1,8 @@
-@def date = Date(2021, 2, 9)
++++
+date = Date(2021, 2, 9)
+rss_pubdate = date
+rss_description = "What I’m doing [now](https://nownownow.com/about)"
++++
 
 # Now
 

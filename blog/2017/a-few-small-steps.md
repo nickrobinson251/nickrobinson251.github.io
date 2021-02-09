@@ -1,6 +1,10 @@
-@def title = "A few small steps"
-@def tags = ["Machines"]
-@def date = Date(2017, 9, 27)
++++
+title = "A few small steps"
+tags = ["Machines"]
+date = Date(2017, 9, 27)
+rss_pubdate = date
+rss_description = title
++++
 
 # {{ title }}
 

@@ -7,6 +7,8 @@ The website_* must be defined for the RSS to work.
 @def website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "https://nickrobinson251.github.io")
 @def prepath = get(ENV, "PREVIEW_FRANKLIN_PREPATH", "")
 
+@def generate_rss = true
+
 @def sitename = "Nick Robinson"
 @def author = "Nick Robinson"
 @def author_bio = "Research Software Engineer"
