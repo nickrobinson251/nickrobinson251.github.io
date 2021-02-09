@@ -1,4 +1,4 @@
-Sitemap: https://nickrobinson251.github.io/sitemap.xml
+Sitemap: https://nickrobinson251.netlify.app/sitemap.xml
 
 User-agent: *
 Disallow:
